@@ -1,1 +1,2 @@
 # first-landing-page
+Welcome to my first landing page with the Odin Project. This page will be focused on bringing awarness to squash and how there are more than one type of squash. Butternut is great, but we must respect the others who do not identify as Butternut. Thanks again and I hope you learn something.  
